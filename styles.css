@@ -111,7 +111,7 @@ img {
 }
 
 .nav-list a:hover {
-    background: #aa8232;
+    background: #a99214;
 }
 
 /* Welcome section */
@@ -187,7 +187,7 @@ img {
   }
   
   .project:hover .code {
-    color: #ff7f50;
+    color: #dcb219;
   }
   
   .project-image {
