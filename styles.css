@@ -210,7 +210,7 @@ img {
   .btn-show-all {
     font-size: 2rem;
     background: #000;
-    transition: background 0.3s ease-out;
+    transition: 0.3s ease-out;
   }
   
   .btn-show-all:hover {
